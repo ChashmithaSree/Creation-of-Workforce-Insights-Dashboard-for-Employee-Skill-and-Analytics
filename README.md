@@ -605,6 +605,4 @@ The primary objectives of this project are to:
 
 
 
-## 📄 License
 
-Add your chosen license here, such as the MIT License, if applicable.
